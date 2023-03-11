@@ -1,8 +1,8 @@
-# Cartoon-Planet-Pack
-This Spaceflight Simulator planet pack is not meant to be like the rest, this one is more of a cartoon like system, the pack has all the planets currently in the game, but is missing a few textures so some planets have not changed.
+# Luminaris-Planet-Pack
+This Spaceflight Simulator planet pack is a new and upcoming planet pack with improved textures in the game and will have realistc heights in the future!
 
 # Recommendations
 If you have any recommendations for the pack feel free to dm me on discord or ping me in the editing channel of the official SFS discord @ringraith93#3185
 
 # BEFORE YOU DOWNLOAD THE PACK!
-Also note that when using the pack it gives a error while opening the world, this is a issue im aware of and have tried to fix, it will not effect your game, but something to be aware of.
+The water is only for looks, it does NOT work at the current state in time. Also Deimos and Phobos hitboxes are messed up so I would avoid those.
