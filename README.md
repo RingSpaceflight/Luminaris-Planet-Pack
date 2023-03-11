@@ -1,5 +1,5 @@
 # Luminaris-Planet-Pack
-This Spaceflight Simulator planet pack is a new and upcoming planet pack with improved textures in the game and will have realistc heights in the future!
+This Spaceflight Simulator planet pack is a new and upcoming planet pack with improved textures in the game and will have more height maps in the future!
 
 # Recommendations
 If you have any recommendations for the pack feel free to dm me on discord or ping me in the editing channel of the official SFS discord @ringraith93#3185
